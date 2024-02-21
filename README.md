@@ -4,9 +4,9 @@
 
 ### 1. Important Links
 
-- [Video link 1](https://vanderbilt.box.com/s/7skn7t2kggvezo33ktxgngyikg89nof9)
-- [Video link 2](https://vanderbilt.box.com/s/1vrfedrdquhbq3aj8depgnn63bkd8tja)
-- [Project3.zip on Box](https://vanderbilt.box.com/s/e0keiclfjln3k6f09yecotbqab7oiak3)
+- [Natural Light: Video link 1](https://vanderbilt.box.com/s/7skn7t2kggvezo33ktxgngyikg89nof9)
+- [W/O Nature Light: Video link 2](https://vanderbilt.box.com/s/1vrfedrdquhbq3aj8depgnn63bkd8tja)
+- [With Artificial Bright Light: Project3.zip on Box](https://vanderbilt.box.com/s/e0keiclfjln3k6f09yecotbqab7oiak3)
 
 ### 2. Download Project3.zip
 ```bash
@@ -40,7 +40,8 @@ upzip Project3.zip
 
 ## Discussions
 
-The Virtual Button did not track the onButtonPressed well enough. As we can see in video link 2, it lost track of the gestures several times.
+The Virtual Button did not track the onButtonPressed well enough in the first two video. As we can see in video link 1 & 2, it lost track of the gestures several times.
+However, in video 3, a bright LED light was used so it makes the tracking better as we can see the improved responsiveness.
   
 
 ```csharp
