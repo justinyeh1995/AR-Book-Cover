@@ -4,14 +4,14 @@
 
 ### 1. Important Links
 
-- [Natural Light: Video link 1](https://vanderbilt.box.com/s/7skn7t2kggvezo33ktxgngyikg89nof9)
-- [W/O Nature Light: Video link 2](https://vanderbilt.box.com/s/1vrfedrdquhbq3aj8depgnn63bkd8tja)
-- [With Artificial Bright Light: Project3.zip on Box](https://vanderbilt.box.com/s/e0keiclfjln3k6f09yecotbqab7oiak3)
+- Recoreded With Natural Sun Light: [Video link 1](https://vanderbilt.box.com/s/7skn7t2kggvezo33ktxgngyikg89nof9)
+- Recoreded W/O Nature Light: [Video link 2](https://vanderbilt.box.com/s/1vrfedrdquhbq3aj8depgnn63bkd8tja)
+- Recoreded With Artificial Bright Light: [Video link 3](https://vanderbilt.box.com/s/folklol2v2zhbdre5h0je1iu1ekpnvzp)
 
 ### 2. Download Project3.zip
-```bash
-Use the link above
-```
+
+Download the zip file via [Project3.zip on Box](https://vanderbilt.box.com/s/e0keiclfjln3k6f09yecotbqab7oiak3)
+
 or
 ```
 git clone git@github.com:justinyeh1995/AR-Book-Cover.git
@@ -27,9 +27,10 @@ upzip Project3.zip
 <img width="247" alt="Screenshot 2024-02-20 at 10 40 22 PM" src="https://github.com/justinyeh1995/AR-Book-Cover/assets/42970023/8bf2b2b5-6bc4-4276-8647-e343f798f504">
 
 ### 5. Add SampleScene from Assests/Scene to Project
-   
-![Screenshot 2024-02-20 at 10 41 41 PM](https://github.com/justinyeh1995/AR-Book-Cover/assets/42970023/056a0fec-f1a7-4679-8a3b-987dbca16036)
-![Screenshot 2024-02-20 at 10 41 41 PM](https://github.com/justinyeh1995/AR-Book-Cover/assets/42970023/c9d00cf2-8730-49f8-8c1d-9766cef729c3)
+
+![Screenshot 2024-02-20 at 10 42 11 PM](https://github.com/justinyeh1995/AR-Book-Cover/assets/42970023/866b5bbb-e9bc-4e8f-a96e-3527c13aaf9f) 
+
+![Screenshot 2024-02-20 at 10 41 41 PM](https://github.com/justinyeh1995/AR-Book-Cover/assets/42970023/056a0fec-f1a7-4679-8a3b-987dbca16036) 
 
 ### 6. Click Play
 
