@@ -77,8 +77,6 @@ public class VBTN : MonoBehaviour
         cube.SetActive(true);
         detailText.SetActive(true);
         reviewText.SetActive(false);
-        // detailsText = GameObject.Find("DetailsTextName");
-        // reviewText = GameObject.Find("ReviewTextName");
     }
 
 
