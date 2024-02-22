@@ -42,8 +42,12 @@ upzip Project3.zip
 ## Discussions
 
 The Virtual Button did not track the onButtonPressed well enough in the first two video. As we can see in video link 1 & 2, it lost track of the gestures several times.
-However, in video 3, a bright LED light was used so it makes the tracking better as we can see the improved responsiveness.
-  
+However, in video 3, a bright LED light was used, and it made the tracking better as we can see the improved responsiveness.
+
+The code below implements the logic of toggling texts between detailed descriptions and reviews. It can also be found in `VBTN.cs`. The logic is quite straightforward.
+1. Set up objects' states in `Start`, and make sure `OnButtonPressed` and `OnButtonReleased` are registered on the virtual button.
+2. The main toggling logic is in `OnButtonPressed` where a boolean flag is used to control the visibility of two types of texts
+3. `OnButtonReleased` logs out dummy information, which asserts this function is triggered.  
 
 ```csharp
 // Tutorial: https://www.youtube.com/watch?v=Ckw4RKKVE3k
